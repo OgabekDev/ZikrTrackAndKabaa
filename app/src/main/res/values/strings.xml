@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Zikr Track &amp; Kabaa</string>
+    <string name="sozlamalar">Созламалар</string>
+    <string name="til">Тил</string>
+    <string name="tungi_rejim">Тунги режим</string>
+    <string name="marta">марта</string>
+    <string name="tasbih_qoshish">Тасбеҳ қўшиш</string>
+    <string name="tasbehlar">Тасбеҳлар</string>
+    <string name="zikrni_kiriting">Зикрни киритинг</string>
+    <string name="kiritish">Киритиш</string>
+    <string name="izoh">Изоҳ</string>
+    <string name="tasbih">Тасбеҳ</string>
+    <string name="krill" translatable="false">Крилл</string>
+    <string name="lotin" translatable="false">Lotin</string>
+    <string name="create_error">Тасбеҳ яратишда хатолик рой берди. Илтимос қайта уриниб кўринг</string>
+    <string name="delete_error">Тасбеҳни ўчиришда хатолик рой берди. Илтимос қайта уриниб кўринг</string>
+    <string name="error_min_lenth">Камида 3 та ҳарфдан иборат бўлиши керак</string>
+    <string name="downloading">Юкланмоқда</string>
+</resources>

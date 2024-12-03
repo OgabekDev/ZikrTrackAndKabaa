@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zikr Track &amp; Kabaa</string>
+    <string name="sozlamalar">Sozlamalar</string>
+    <string name="til">Til</string>
+    <string name="tungi_rejim">Tungi rejim</string>
+    <string name="marta">marta</string>
+    <string name="tasbih_qoshish">Tasbeh qo\'shish</string>
+    <string name="tasbehlar">Tasbehlar</string>
+    <string name="zikrni_kiriting">Zikrni kiriting</string>
+    <string name="kiritish">Kiritish</string>
+    <string name="izoh">Izoh</string>
+    <string name="tasbih">Tasbeh</string>
+    <string name="create_error">Tasbeh yaratishda xatolik roy berdi. Iltimos qayta urinib ko\'ring</string>
+    <string name="delete_error">Tasbehni o‘chirishda xatolik roy berdi. Iltimos qayta urinib ko‘ring</string>
+    <string name="error_min_lenth">Kamida 3 ta harfdan iborat bo‘lishi kerak</string>
+    <string name="downloading">Yuklanmoqda</string>
+</resources>
