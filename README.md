@@ -1,18 +1,12 @@
-# Izharul Ifadat
+# Zikr Track & Kabaa
 
-<img src="https://user-images.githubusercontent.com/91304483/230301702-77d4a978-7aa2-4dc7-8ceb-0dd64039ea8f.png" width="256" height="256" />
+<img src="https://github.com/user-attachments/assets/c2ec2f10-0123-4c79-9984-beda803f5251" width="256" height="256" />
 
-Izharul Ifadat is a mobile application that provides users with an in-depth understanding of the 10 main chapters of Islam through audio lectures and dua (prayer) recitation. This app is designed to help users deepen their knowledge and connection to the Islamic faith in a convenient and accessible way. With its user-friendly interface and comprehensive content, Izharul Ifadat has become a valuable resource for those seeking to strengthen their faith and deepen their understanding of Islam.
-
-<img src="https://user-images.githubusercontent.com/91304483/230296912-fbc752a6-81e3-4af9-b766-3fb4a24b29a3.png"/>
+Zikr Track & Kabaa App allows users to manage and track their daily zikr (remembrance of Allah), ensuring consistency in their spiritual practices. It also features a built-in Qibla compass, making locating the direction of the Kabaa for prayers from any location easy. Designed with simplicity and functionality, the app is ideal for Muslims seeking to stay connected with their faith. Its intuitive interface makes it a reliable companion for daily worship and spiritual growth.
 
 
 ## Screenshots
 <table style="width:100%">
-  <tr>
-    <th><img src="https://user-images.githubusercontent.com/91304483/230302385-60fc15e6-89b9-41d6-ace4-c078a38a433f.png"/></th>
-    <th><img src="https://user-images.githubusercontent.com/91304483/230302400-7260be07-c95f-403e-a574-16e16ea86529.png"/></th>
-  </tr>
   <tr>
     <th><img src="https://user-images.githubusercontent.com/91304483/230302803-c0a00f3b-94e5-4955-8637-d6f6641d5c91.png"/></th>
     <th><img src="https://user-images.githubusercontent.com/91304483/230302807-2139bd04-a324-4aa8-a23b-70a93c9d3488.png"/></th>
@@ -36,7 +30,6 @@ Izharul Ifadat is a mobile application that provides users with an in-depth unde
 * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Store UI-related data that isn't destroyed on app rotations. Easily schedule asynchronous tasks.
 
 ### Features
-* Text and Audio lessons
 * Dark and Light mode
 * Online and Offline Mode
 * Tasbih Section
@@ -58,4 +51,4 @@ Something not working quite as expected? Do you need a feature that has not been
 * [Telegram](https://www.t.me/Ogabek_Dev)
 * [Instagram](https://www.instagram.com/OgabekDev)
 * [Facebook](https://www.facebook.com/OgabekDev)
-* [LinkedIn](https://www.linkedin.com/in/Ogabek_Dev)
+* [LinkedIn](https://www.linkedin.com/in/OgabekDev)
