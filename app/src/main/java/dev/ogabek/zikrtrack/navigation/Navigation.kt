@@ -22,10 +22,10 @@ fun HomeNavigation(navController: NavHostController) {
             TasbihScreen(navController)
         }
         composable(Home.QIBLAA) {
-            QiblaaScreen(navController)
+            QiblaaScreen()
         }
         composable(Home.SETTINGS) {
-            SettingsScreen(navController)
+            SettingsScreen()
         }
         tasbihDetailsScreen(navController)
     }

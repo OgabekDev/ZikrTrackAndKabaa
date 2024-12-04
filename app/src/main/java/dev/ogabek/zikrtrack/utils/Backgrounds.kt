@@ -87,3 +87,28 @@ fun TasbihDetailsBackground() {
         )
     }
 }
+
+@Composable
+fun KabaaBackground() {
+    val configuration = LocalConfiguration.current
+    val screenHeight = configuration.screenHeightDp.dp
+    val screenWidth = configuration.screenWidthDp.dp
+
+    val screenRatio = (screenHeight / screenWidth) * 100
+
+    Box(
+        modifier = Modifier
+            .fillMaxSize()
+            .background(MaterialTheme.colors.background),
+        contentAlignment = Alignment.Center
+    ) {
+        Image(
+            painter = painterResource(id = R.drawable.img_qiblaa_background),
+            contentDescription = null,
+            contentScale = ContentScale.FillBounds,
+            modifier = Modifier
+                .width((screenWidth.value * 2).dp)
+                .aspectRatio(0.723f)
+        )
+    }
+}

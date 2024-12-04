@@ -32,24 +32,20 @@ import dev.ogabek.zikrtrack.utils.*
 import dev.ogabek.zikrtrack.R
 
 @Composable
-fun SettingsScreen(
-    navController: NavHostController
-) {
+fun SettingsScreen() {
 
     Box(
         modifier = Modifier
             .fillMaxSize()
     ) {
         SettingsBackground()
-        SettingsView(navController)
+        SettingsView()
     }
 
 }
 
 @Composable
-fun SettingsView(
-    navController: NavHostController
-) {
+fun SettingsView() {
 
     val context = LocalContext.current
 
